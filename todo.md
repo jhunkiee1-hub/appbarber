@@ -1,0 +1,28 @@
+# Project TODO
+
+- [x] Criar identidade visual AppBarber e substituir os ícones placeholder
+- [x] Atualizar app.config.ts com nome AppBarber e branding
+- [ ] Definir modelos partilhados de utilizador, barbeiro, serviço, agendamento, avaliação, fila e relatório
+- [x] Implementar navegação principal do cliente
+- [x] Implementar início do cliente com próximo agendamento, barbeiros e serviços
+- [x] Implementar escolha de barbeiro com avaliações, especialidades e favoritos
+- [x] Implementar escolha de serviço com preço e duração
+- [x] Implementar agenda por dia/semana com horários livres e bloqueio por duração
+- [x] Implementar confirmação, remarcação e cancelamento com regras de antecedência
+- [x] Implementar histórico de cortes e avaliação pós-atendimento
+- [x] Implementar lista de espera inteligente
+- [x] Implementar notificações e preferências de canal
+- [ ] Implementar modo offline para consulta da agenda do dia
+- [x] Implementar navegação e dashboard do administrador
+- [ ] Implementar gestão de barbeiros, comissões e disponibilidade
+- [ ] Implementar gestão de serviços, preços, duração e cores
+- [ ] Implementar regras de funcionamento, intervalos e cancelamento
+- [ ] Implementar agenda geral diária, semanal e mensal
+- [ ] Implementar gestão de clientes, faltas e bloqueios
+- [ ] Implementar fila presencial com QR Code
+- [ ] Implementar promoções e cupons
+- [x] Implementar relatórios operacionais e de faturamento
+- [ ] Preparar pontos de integração para SMS, Google/Apple, WhatsApp Business e pagamentos
+- [ ] Criar testes unitários para regras de disponibilidade, cancelamento e comissão
+- [x] Executar verificação TypeScript, lint e testes
+- [ ] Sincronizar o código com o repositório GitHub privado appbarber
